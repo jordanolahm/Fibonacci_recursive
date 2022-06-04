@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494441155 source:c:\users\aluno\desktop\fibonacci recursivo\fibonacci.c
+	"fibonacci.h"
+
+1494441152 c:\users\aluno\desktop\fibonacci recursivo\fibonacci.h
+	<stdio.h>
+
+1494441460 source:c:\users\aluno\desktop\fibonacci recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
